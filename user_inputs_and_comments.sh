@@ -2,7 +2,7 @@
 
 #user input. This is just a comment!
 
-read -p "Enter your full name and age: " 
+echo "Enter your full name and age: " 
 
 read FNAME LNAME AGE
 
